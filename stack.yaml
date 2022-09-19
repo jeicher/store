@@ -1,5 +1,7 @@
-resolver: nightly-2021-08-16
+resolver: nightly-2022-09-17
 packages:
 - .
 - store-core
 - store-streaming
+extra-deps:
+- text-2.0.1

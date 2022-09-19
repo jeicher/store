@@ -47,6 +47,7 @@ import           Data.StoreSpec.TH
 import           Data.Text (Text)
 import qualified Data.Text as T
 import qualified Data.Time as Time
+import qualified Data.Time.Calendar.WeekDate as Time
 import qualified Data.Time.Clock.TAI as Time
 import           Data.Typeable (Typeable)
 import qualified Data.Vector as V

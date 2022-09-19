@@ -97,7 +97,7 @@ library
     , th-orphans >=0.13.2
     , th-reify-many >=0.1.6
     , th-utilities >=0.2
-    , time >=1.5
+    , time >=1.11
     , transformers >=0.3.0.0
     , unordered-containers >=0.2.5.1
     , vector >=0.10.12.3
@@ -167,7 +167,7 @@ test-suite store-test
     , th-orphans >=0.13.2
     , th-reify-many >=0.1.6
     , th-utilities >=0.2
-    , time >=1.5
+    , time >=1.11
     , transformers >=0.3.0.0
     , unordered-containers >=0.2.5.1
     , vector >=0.10.12.3
@@ -232,7 +232,7 @@ benchmark store-bench
     , th-orphans >=0.13.2
     , th-reify-many >=0.1.6
     , th-utilities >=0.2
-    , time >=1.5
+    , time >=1.11
     , transformers >=0.3.0.0
     , unordered-containers >=0.2.5.1
     , vector >=0.10.12.3
@@ -306,7 +306,7 @@ benchmark store-weigh
     , th-orphans >=0.13.2
     , th-reify-many >=0.1.6
     , th-utilities >=0.2
-    , time >=1.5
+    , time >=1.11
     , transformers >=0.3.0.0
     , unordered-containers >=0.2.5.1
     , vector >=0.10.12.3
